@@ -2,7 +2,8 @@
 
 I'm Scott. I build and ship production web systems focused on **backend architecture**, **cloud infrastructure**, modern **user interfaces** and **product-grade delivery**.
 
-Most of my real production work lives in **private repositories** (client work, active products, and in-progress commercial systems).  
+Most of my real production work lives in **private repositories** (client work, active products, and in-progress commercial systems).
+
 This GitHub is primarily for **public examples**, **utilities**, and occasional open-source work.
 
 ## Quick links
@@ -14,10 +15,11 @@ This GitHub is primarily for **public examples**, **utilities**, and occasional 
 ## What I’m focused on
 - Backend APIs and systems design (Django / DRF, FastAPI)
 - Cloud architecture and deployment (AWS / Digital Ocean)
-- Databases & performance (Postgres, Redis; scaling patterns)
+- Databases & performance (Postgres, Qdrant, Redis; scaling patterns)
 - Multi-tenant / whitelabel SaaS patterns
 - Auth / identity foundations (OIDC/OAuth-style flows)
 - Seemless UX and performant UIs (Svelte / Vue / React / HTMX)
+- AI data pipelines and workflows (LangGraph, PydanticAI)
 
 ## Notes for hiring / collaboration
 If you’re reviewing my GitHub and don’t see a large volume of public repos: that’s expected.  
