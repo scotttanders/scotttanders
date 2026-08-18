@@ -10,16 +10,17 @@ This GitHub is primarily for **public examples**, **utilities**, and occasional 
 - [**Website**](https://scotttanders.com)
 - [**LinkedIn**](https://www.linkedin.com/in/scotttanders)
 - [**Birdverse**](https://birdverse.org)
-- [**Teacher Marketplace Demo**](https://www.youtube.com/watch?v=mvD-WiA0SW8&t=5s)
+- [**Mini-Golf**](https://play.birdverse.games/birdie)
 
 ## What I’m focused on
-- Backend APIs and systems design (Django / DRF, FastAPI)
+- Backend APIs and systems design (Python/Typescript)
 - Cloud architecture and deployment (AWS / Digital Ocean)
 - Databases & performance (Postgres, Qdrant, Redis; scaling patterns)
 - Multi-tenant / whitelabel SaaS patterns
 - Auth / identity foundations (OIDC/OAuth-style flows)
-- Seemless UX and performant UIs (Svelte / Vue / React / HTMX)
+- Seemless UX and performant UIs (Svelte / Vue / React)
 - AI data pipelines and workflows (LangGraph, PydanticAI)
+- 3D interactive user web experiences (Babylon.js, Three.js, Unity)
 
 ## Notes for hiring / collaboration
 If you’re reviewing my GitHub and don’t see a large volume of public repos: that’s expected.  
